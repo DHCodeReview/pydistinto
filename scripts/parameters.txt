@@ -1,0 +1,11 @@
+corpus=C:\Workstation\Trier\Github\pydistinto\data\doyle\corpus
+workdir=C:\Workstation\Trier\Github\pydistinto\working_dir
+language=English
+segmentlength=5000
+forms=lemmata
+pos=all
+contrast=detective
+target_corpus=yes
+comparison_corpus=no
+no_of_features=25
+measures=zeta_sd0,zeta_sd2,rrf_dr0,eta_sg0,welsh,ranksum,chi_square,LLR,tf_idf
